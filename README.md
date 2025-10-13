@@ -1,10 +1,13 @@
 # Titanic_Survival_Analysis_Excel-
 
 # Titanic Survival Analysis 
-**Project Overview**: 
+
+**Project Overview**:
+
   This project uses the Titanic Dataset (available on Kaggle) to analyzes the passenger data from the RMS Titanic disaster to identify the key factors that influenced survival rates. The primary objective is to use data exploration and visualization in Microsoft Excel to uncover patterns in survival based on passenger demographics and travel details.
 ________________________________________
  **Dataset Description :**
+ 
 The dataset contains information for 891 passengers and includes the following key variables:
 •	Passenger Demographics :  PassengerId, Sex, Age, Title
 •	Socio-Economic Factors  :   Pclass (Passenger Class) 
@@ -12,18 +15,21 @@ The dataset contains information for 891 passengers and includes the following k
 •	Outcome Variable:  Survived (0 = No, 1 = Yes)
 ________________________________________
  **Business Objectives :**
+ 
 The primary objectives of this project are:
 1.	Identify High-Risk Passenger Groups : To find out which groups of people (like by gender, age, or social class) were most affected during the disaster.
 2.	Analyze the Impact of Social Structures: To find out how things like passenger class and family size affected who survived.
 3.	Derive Actionable Safety Recommendations: To give useful safety advice based on data that can help improve today’s ship safety rules and evacuation plans.
 ________________________________________
  **Key Business Questions :**
+ 
 *Below are some sample questions addressed in this analysis:*
 1.	What was the overall survival rate of the passengers?
 2.	How much did gender affect the chances of survival?
 3.	Which age groups (children, adults, or seniors) were most at risk?
 ________________________________________
  **Tools & Techniques :**
+ 
 •	Microsoft Excel
 •	Data Cleaning: Used Power Query to handle missing values (Age, Embarked), remove unnecessary    columns, and create new columns (Title).
 
@@ -34,6 +40,7 @@ ________________________________________
 •	Interactivity: Developed a Dashboard with Slicers to allow for dynamic filtering and exploration of the data.
 ________________________________________
 **Deliverables :**
+
 •	Cleaned Excel dataset
 •	Pivot tablesCharts and dashboard
 •	Final Word report
@@ -41,6 +48,7 @@ ________________________________________
 
 ________________________________________
  **Insights (Sample Findings) :**
+ 
 •	About 38% of passengers survived.
 •	Females had the highest survival rate
 •	Children survived more than seniors.
@@ -48,6 +56,7 @@ ________________________________________
 
 ________________________________________
  **Future Enhancements :**
+ 
 •	Add more variables (like fare or family size).
 •	Build an interactive Power BI.
     
