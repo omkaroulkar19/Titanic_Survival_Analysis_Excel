@@ -1,6 +1,9 @@
 # Titanic_Survival_Analysis_Excel-
 
-# Titanic Survival Analysis 
+<img width="584" height="352" alt="image" src="https://github.com/user-attachments/assets/f6bffcfd-c635-47fb-b286-9a3ada03351d" />
+
+
+
 
 **Project Overview**:
 
@@ -50,9 +53,13 @@ ________________________________________
  **Insights (Sample Findings) :**
  
 •	About 38% of passengers survived.
-•	Females had the highest survival rate
+
+•	Females had the highest survival rate.
+
 •	Children survived more than seniors.
+
 •	First-class passengers were more likely to survive.
+
 
 ________________________________________
  **Future Enhancements :**
