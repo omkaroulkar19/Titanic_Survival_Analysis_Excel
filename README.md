@@ -87,8 +87,8 @@ Some of the analytical questions explored include:
 ## 👨‍💻 Author  
 
 **Omkar Oulkar**  
-📍 *Data Enthusiast | Excel & Data Visualization Developer*  
-📧 *[LinkedIn Profile or GitHub link can be added here]*  
+
+  
 
 ---
 
