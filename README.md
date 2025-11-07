@@ -1,4 +1,4 @@
-# 🛳️ Titanic Survival Analysis (Excel Project)
+# 🛳️ Titanic Survival Analysis
 
 <img width="584" height="352" alt="Titanic Dashboard" src="https://github.com/user-attachments/assets/f6bffcfd-c635-47fb-b286-9a3ada03351d" />
 
